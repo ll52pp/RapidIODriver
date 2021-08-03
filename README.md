@@ -1,2 +1,1 @@
-# RapidIODriver
-RapidIODriver for linux
+# kernel-rapidio
